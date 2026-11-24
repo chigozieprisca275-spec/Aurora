@@ -1,0 +1,5 @@
+This is my first Bash practice file in the Aurora project.
+
+I created this file while learning LInux, Ubuntu and Bash scripting as part of my cloud computing training. I am practicing how to navigate directories, create folders and files and use basic Linux commands.
+
+This project will help me understand how to work with Linux terminal, organise files and folders and also build my confidence through regular practice and i will continue to update this project as i learn new commands and skills.
